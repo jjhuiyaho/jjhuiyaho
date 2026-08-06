@@ -5,11 +5,11 @@
 <a href="https://jjhuiyaho.github.io/HanJaehui/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&size=22&pause=1000&color=00462A&center=true&vCenter=true&width=600&lines=Data-driven+Problem+Solver;%EB%AC%B8%EC%A0%9C+%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0+%EA%B2%80%EC%A6%9D%EA%B9%8C%EC%A7%80;%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EC%A0%95%EC%B1%85%EC%9D%84+%EC%A0%9C%EC%95%88%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+
 </div>
-
----
-
-**Data-driven Problem Solver | 데이터 기반 문제 정의 및 검증**
 
 공공데이터와 사용자 데이터를 분석해 문제를 정의하고, 정책 제안 또는 프로토타입 형태로 구체화하여 검증하는 작업을 합니다. 아이디어 단계에서 그치지 않고 실행 가능한 형태로 완성하는 것을 지향합니다.
 
@@ -22,19 +22,23 @@
   <img height="150em" src="https://streak-stats.demolab.com/?user=jjhuiyaho&theme=default&border=E4E2E2&card_width=440"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jjhuiyaho&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
+</p>
+
 ---
 
 ## Education & Certificate
 
-- 이화여자대학교 통계학과 (3학년 수료, 휴학 중)
-- ADsP 데이터분석준전문가 (2024.09)
+<img src="https://img.shields.io/badge/Ewha_Womans_University-00462A?style=flat-square&logo=googlescholar&logoColor=white"/> 통계학과 (3학년 수료, 휴학 중)
+<img src="https://img.shields.io/badge/ADsP-8CB86E?style=flat-square&logo=databricks&logoColor=white"/> 데이터분석준전문가 (2024.09)
 
 ---
 
 ## Awards
 
-- 국가데이터처 청년인턴 정책제안 성과 발표회 **대상**
-- 국가데이터처 통계 분야 AI 오류 발굴 대회 **장려상**
+<img src="https://img.shields.io/badge/국가데이터처-대상-FFD700?style=flat-square&logo=trophy&logoColor=black"/> 청년인턴 정책제안 성과 발표회
+<img src="https://img.shields.io/badge/국가데이터처-장려상-C0C0C0?style=flat-square&logo=trophy&logoColor=black"/> 통계 분야 AI 오류 발굴 대회
 
 ---
 
@@ -72,15 +76,18 @@
 
 ---
 
-## Technical Skills
+## Skills
 
-| 구분 | 내용 |
-|---|---|
-| Data Analysis | Python (Pandas, NumPy), R, scikit-learn, Factor Analysis, Clustering (K-Means), GIS Spatial Analysis |
-| Prototyping | Streamlit, Next.js, React |
-| Public Data | KOSIS, SGIS, 공간 데이터(GeoJSON/Shapefile) |
-| Visualization | Tableau |
-| Collaboration | Git, GitHub, Notion |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,tailwind,git,github,notion&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
@@ -91,3 +98,9 @@
 - 통계 기초 (가설검정, 회귀분석의 가정)
 - SQL (실무 데이터 핸들링)
 - 제품 기획 프레임워크 (PRD, JTBD)
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jjhuiyaho&label=Profile%20Views&color=00462A&style=flat-square" alt="profile views"/>
+</div>
