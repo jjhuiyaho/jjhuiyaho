@@ -75,24 +75,48 @@
 
 ---
 
-## Skills
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,git,github,notion&theme=light" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>&nbsp
+</div>
+
+<br/>
+
+<h4 align="center">📚 Studying</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Statistics-8CB86E?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PRD%2FJTBD-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+</div>
+
+<br/>
+
+<h4 align="center">🛠 Tools</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
+</div>
+
+<br/>
 
 **Education**: 이화여자대학교 통계학과 (3학년 수료, 휴학 중) · ADsP (2024.09)
 
 ---
 
-## Currently Reinforcing
-
-- 통계 기초 (가설검정, 회귀분석의 가정)
-- SQL (실무 데이터 핸들링)
-- 제품 기획 프레임워크 (PRD, JTBD)
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://jjhuiyaho.github.io/HanJaehui/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>&nbsp
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
