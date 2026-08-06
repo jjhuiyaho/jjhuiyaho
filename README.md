@@ -7,81 +7,79 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&size=22&pause=1000&color=00462A&center=true&vCenter=true&width=600&lines=Data-driven+Problem+Solver;%EB%AC%B8%EC%A0%9C+%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0+%EA%B2%80%EC%A6%9D%EA%B9%8C%EC%A7%80;%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EC%A0%95%EC%B1%85%EC%9D%84+%EC%A0%9C%EC%95%88%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&size=22&pause=1000&color=00462A&center=true&vCenter=true&width=600&lines=Data-driven+Product+Planner;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0;%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EA%B5%AC%EC%B2%B4%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
 </div>
 
-공공데이터와 사용자 데이터를 분석해 문제를 정의하고, 정책 제안 또는 프로토타입 형태로 구체화하여 검증하는 작업을 합니다. 아이디어 단계에서 그치지 않고 실행 가능한 형태로 완성하는 것을 지향합니다.
+사용자 데이터를 분석해 문제를 정의하고, 서비스 로직·데이터 구조로 구체화하여 프로토타입까지 만들어보는 것을 지향합니다.
+
+<br/>
+
+### 🏆 Awards
+<!-- 새 수상 내역은 이 목록에만 추가하면 됩니다 -->
+- 국가데이터처 청년인턴 성과 발표회 **대상**
+- 국가데이터처 통계 분야 AI 오류 발굴 대회 **장려상**
+
+<br/>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&theme=default&hide_border=true&card_width=380"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhuiyaho&layout=compact&hide_border=true&card_width=280"/>
 </p>
 
-<p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=jjhuiyaho&theme=default&border=E4E2E2&card_width=440"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjhuiyaho&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
+## Featured Projects
+
+### 🔍 ThinkGood — 사용자 행동 데이터 기반 추천 시스템
+> 92% 비식별 유저(Cold Start) 환경에서, 설계 로직이 실제 서비스 개발에 반영된 프로젝트
+
+- 행동 로그가 없는 환경을 반영해 4단계 세그먼트 추천 전략(Rule-based ~ Hybrid CF) 설계
+- 접수 데이터만 있던 운영 DB를 `User_Master` / `User_Activity_Log` 스키마로 재설계해 학습 가능한 자산으로 전환
+- Streamlit 데모로 구현해 설계 검증
+
+`Python` `Pandas` `scikit-learn` `Streamlit`
+&nbsp;·&nbsp; [Repo](https://github.com/jjhuiyaho/ThinkGood-Recsys) · [Demo](https://huggingface.co/spaces/HanJaeHui/ThinkGood_Recommendation_System)
+
+<br/>
+
+### 📊 다변량 통계 기반 세그먼트·우선순위 분석
+> 5.7만 건 위치 데이터를 통계적으로 검증해 우선순위 그룹을 도출한 프로젝트
+
+- 인자분석으로 14개 변수를 5개 핵심 인자로 축약 (KMO 0.6078 검증)
+- 공간 자기상관 분석(Moran's I)으로 통계적 유의성이 있는 그룹만 선별
+- K-Means 군집화로 3개 유형을 분류하고 유형별 대응 전략 도출
+
+`Python` `Tableau` `Factor Analysis` `GIS`
+&nbsp;·&nbsp; [Repo](https://github.com/jjhuiyaho/EWHA) · [Tableau](https://public.tableau.com/app/profile/.45103572/viz/_Tableau2_17560266784060/sheet0)
 
 ---
 
-## Education & Certificate
+## Experience
 
-<img src="https://img.shields.io/badge/Ewha_Womans_University-00462A?style=flat-square&logo=googlescholar&logoColor=white"/> 통계학과 (3학년 수료, 휴학 중)
-<img src="https://img.shields.io/badge/ADsP-8CB86E?style=flat-square&logo=databricks&logoColor=white"/> 데이터분석준전문가 (2024.09)
+**국가데이터처 경제통계심사조정과 청년인턴** `2026.03 ~ 2026.08`
+데이터 기반 서비스 개선 프로젝트 기획 및 구체화
 
----
-
-## Awards
-
-<img src="https://img.shields.io/badge/국가데이터처-대상-FFD700?style=flat-square&logo=trophy&logoColor=black"/> 청년인턴 정책제안 성과 발표회
-<img src="https://img.shields.io/badge/국가데이터처-장려상-C0C0C0?style=flat-square&logo=trophy&logoColor=black"/> 통계 분야 AI 오류 발굴 대회
-
----
+**Tobig's 24기** `2025.07 ~ 2026.07`
+인공지능·데이터 분석 연합동아리 — 기업 연계 추천 시스템 프로젝트 참여
 
 <details>
-<summary><strong>Core Competencies</strong></summary>
+<summary>기타 활동 더보기</summary>
 <div markdown="1">
 
-- **문제 정의 및 데이터 근거 수립**: 공공통계(KOSIS, SGIS) 및 사용자 데이터를 기반으로 문제를 구조화하고 정량적 근거를 도출
-- **분석 방법론**: 인자분석, 공간 자기상관 분석(Moran's I), K-Means 군집화 등 통계 기법을 활용한 리스크·수요 지역 클러스터링
-- **빠른 검증(Rapid Validation)**: Streamlit, Next.js 기반 프로토타입 제작을 통해 아이디어를 실증 가능한 형태로 구현
-- **AI 협업 워크플로우**: 생성형 AI 도구를 활용한 요구사항 구조화 및 구현 효율화
+- ESAA (교내 통계 분석 학회) 11기 YB, 12기 OB & 부회장 `2024.09 ~ 2025.08`
+- OUTTA AI Bootcamp `2024.06 ~ 2024.08`
 
 </div>
 </details>
 
 ---
 
-## Featured Projects
-
-|기간|프로젝트|내용|링크|
-|:-:|:-|:-|:-:|
-|2025.10 ~ 2026.01|**ThinkGood — 공모전 추천 시스템**|92% 비식별 유저(Cold Start) 환경을 반영한 4단계 세그먼트 추천 전략(Rule-based ~ Hybrid CF) 설계, DB 스키마(User_Master / User_Activity_Log / Contest) 제안, Streamlit 데모 구현|[Repo](https://github.com/jjhuiyaho/ThinkGood-Recsys) · [Demo](https://huggingface.co/spaces/HanJaeHui/ThinkGood_Recommendation_System)|
-|2025.07 ~ 2025.08|**천안시 노인 복지 사각지대 분석**|주소 5.7만 건 GIS 좌표 변환 및 행정동 매핑, 인자분석(14→5개 인자, KMO 0.6078), Moran's I 기반 공간 자기상관 검증, K-Means 군집화로 3개 위험 유형 분류 및 유형별 정책 제안|[Repo](https://github.com/jjhuiyaho/EWHA) · [Tableau](https://public.tableau.com/app/profile/.45103572/viz/_Tableau2_17560266784060/sheet0)|
-
----
-
-## Experience & Activity
-
-|기간|소속|내용|
-|:-:|:-|:-|
-|2026.03 ~ 2026.08|국가데이터처 경제통계심사조정과 청년인턴|SGIS 서비스 개선, AI 메타데이터 구축, 청년 정착 지수 등 정책 제안 프로젝트 기획 및 구체화|
-|2025.07 ~ 2026.07|Tobig's 24기 (인공지능·데이터 분석 연합동아리)|기업 연계 추천 시스템 프로젝트 참여, 문제 정의부터 모델링 설계까지 실전 데이터 분석 사이클 경험|
-|2024.09 ~ 2025.08|ESAA (교내 통계 분석 학회)|11기 YB, 12기 OB & 부회장 — 통계 분석 프로젝트 및 커리큘럼 개편 참여|
-|2024.06 ~ 2024.08|OUTTA AI Bootcamp|데이터 수집부터 모델링까지 분석 전 과정 실습|
-
----
-
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,tailwind,git,github,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,git,github,notion&theme=light" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -89,18 +87,12 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
+**Education**: 이화여자대학교 통계학과 (3학년 수료, 휴학 중) · ADsP (2024.09)
+
 ---
 
 ## Currently Reinforcing
 
-분석 결과의 재현 가능성과 방법론적 근거를 강화하기 위해 아래 영역을 학습 중입니다.
-
 - 통계 기초 (가설검정, 회귀분석의 가정)
 - SQL (실무 데이터 핸들링)
 - 제품 기획 프레임워크 (PRD, JTBD)
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jjhuiyaho&label=Profile%20Views&color=00462A&style=flat-square" alt="profile views"/>
-</div>
