@@ -9,30 +9,45 @@
 <a href="https://jjhuiyaho.github.io/HanJaehui/" target="_blank"><img src="https://img.shields.io/badge/portfolio-00462A.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" /></a>
 <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-<br/><br/><br/>
-
-### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
-**추천 시스템 설계** <br/>
-ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택) <br/><br/>
-**정책 제안 프로젝트** <br/>
-KOSIS·SGIS 통계 기반 정책 제안 4건 설계 <br/><br/>
-**복지 위험지 분석 체계** <br/>
-천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
-
 <br/><br/>
 
-### <img width="20" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
-**국가데이터처 인턴** (2026.03 – 2026.08) <br/>
-**Tobig's 24기** (2025.07 – 2026.07) <br/>
-**ESAA 12기 부회장** (2024.09 – 2025.08)
+<table align="center" width="750">
+  <tr>
+    <td>
+      <h3><img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact</h3>
+      <blockquote>
+        <b>추천 시스템 설계</b> <br/>
+        ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택) <br/><br/>
+        <b>정책 제안 프로젝트</b> <br/>
+        KOSIS·SGIS 통계 기반 정책 제안 4건 설계 <br/><br/>
+        <b>복지 위험지 분석 체계</b> <br/>
+        천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<table align="center" width="750">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img width="20" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience</h3>
+      <ul>
+        <li><b>국가데이터처 인턴</b> (2026.03 – 2026.08)</li>
+        <li><b>Tobig's 24기</b> (2025.07 – 2026.07)</li>
+        <li><b>ESAA 12기 부회장</b> (2024.09 – 2025.08)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img width="20" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards</h3>
+      <ul>
+        <li><b>국가데이터처 성과발표회</b> 대상</li>
+        <li><b>통계 분야 AI 오류 발굴 대회</b> 장려상</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### <img width="20" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards
-**국가데이터처 성과발표회** 대상 <br/>
-**통계 분야 AI 오류 발굴 대회** 장려상
-
-<br/><br/>
+<br/>
 
 ### <img width="20" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
@@ -57,11 +72,11 @@ KOSIS·SGIS 통계 기반 정책 제안 4건 설계 <br/><br/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<br/><br/>
+<br/>
 
 ## Github Stats
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
 </a>
 
 </div>
