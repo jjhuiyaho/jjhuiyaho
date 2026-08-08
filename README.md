@@ -1,35 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00462A,100:8CB86E&height=120&section=header&text=Jaehui%20Han&fontSize=38&fontColor=ffffff&fontAlign=80" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00462A,100:8CB86E&height=160&section=header&text=Jaehui%20Han&fontSize=42&fontColor=ffffff&fontAlign=80" />
 
 #### 데이터에서 서비스로 이어지는 지점을 찾습니다.
-
 <a href="https://jjhuiyaho.github.io/HanJaehui/" target="_blank"><img src="https://img.shields.io/badge/portfolio-00462A.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" /></a>
 <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-
-<br/><br/>
 
 #### <img width="18" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
 **추천 시스템 설계** : ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택)<br/>
 **정책 제안 프로젝트** : KOSIS·SGIS 통계 기반 정책 제안 4건 설계<br/>
 **복지 위험지 분석 체계** : 천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
 
-<br/>
-
 #### <img width="18" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
 **국가데이터처 인턴** (2026.03 – 2026.08)<br/>
 **Tobig's 24기** (2025.07 – 2026.07)<br/>
 **ESAA 12기 부회장** (2024.09 – 2025.08)
 
-<br/>
-
 #### <img width="18" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards
 **국가데이터처 성과발표회** 대상<br/>
 **통계 분야 AI 오류 발굴 대회** 장려상
-
-<br/>
 
 #### <img width="18" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
