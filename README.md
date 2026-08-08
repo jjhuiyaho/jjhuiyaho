@@ -11,15 +11,6 @@
 **정책 제안 프로젝트** : KOSIS·SGIS 통계 기반 정책 제안 4건 설계<br/>
 **복지 위험지 분석 체계** : 천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
 
-#### <img width="18" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
-**국가데이터처 인턴** (2026.03 – 2026.08)<br/>
-**Tobig's 24기** (2025.07 – 2026.07)<br/>
-**ESAA 12기 부회장** (2024.09 – 2025.08)
-
-#### <img width="18" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards
-**국가데이터처 성과발표회** 대상<br/>
-**통계 분야 AI 오류 발굴 대회** 장려상
-
 #### <img width="18" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
