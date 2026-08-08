@@ -1,15 +1,17 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00462A,100:8CB86E&height=160&section=header&text=Jaehui%20Han&fontSize=42&fontColor=ffffff&fontAlign=80" />
 
 #### 데이터에서 서비스로 이어지는 지점을 찾습니다.
 <a href="https://jjhuiyaho.github.io/HanJaehui/" target="_blank"><img src="https://img.shields.io/badge/portfolio-00462A.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" /></a>
 <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
+<br/>
+
 #### <img width="18" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
 **추천 시스템 설계** : ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택)<br/>
 **정책 제안 프로젝트** : KOSIS·SGIS 통계 기반 정책 제안 4건 설계<br/>
 **복지 위험지 분석 체계** : 천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
+
+<br/>
 
 #### <img width="18" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
@@ -34,9 +36,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
+<br/>
+
 #### Github Stats
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
 </a>
-
-</div>
