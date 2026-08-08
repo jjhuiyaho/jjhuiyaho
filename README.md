@@ -40,22 +40,19 @@
 <br/>
 
 <p align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikitlearn-original.svg" alt="scikit-learn" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 <br/>
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&title_color=00462A&icon_color=8CB86E" align="left" style="width: 100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjhuiyaho&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjhuiyaho&theme=dracula" />
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhuiyaho&hide_border=true&layout=compact&title_color=00462A" align="left" style="width: 100%" />
-
-</td></tr></table>
+</div>
