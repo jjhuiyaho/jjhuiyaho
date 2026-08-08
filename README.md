@@ -4,7 +4,7 @@
 
 <br/>
 
-### 데이터를 프로덕트로 구체화합니다.
+### 데이터에서 서비스로 이어지는 지점을 찾습니다.
 
 <br/>
 
@@ -17,24 +17,23 @@
 
 <br/><br/>
 
-### :rocket: Key Impact
-
-| 구분 | 성과 |
-|:---|:---|
-| **ThinkGood** | 추천 로직 & DB 설계 — 실제 서비스 채택 |
-| **국가데이터처** | 정책 제안 대상 & AI 오류 발굴 장려상 |
-| **다변량통계** | 복지 사각지대 우선순위 도출 |
+### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
+<p>
+  <img src="https://img.shields.io/badge/ThinkGood-추천_로직_&_DB_설계_(실제_서비스_채택)-00462A?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/국가데이터처-정책_제안_대상_&_AI_오류_발굴_장려상-8CB86E?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/다변량통계-복지_사각지대_우선순위_도출-00462A?style=flat-square"/>
+</p>
 
 <br/>
 
-### :dizzy: Experience
-
+### <img width="20" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
 `국가데이터처 인턴 (2026.03 ~ 2026.08)` &nbsp;·&nbsp; `Tobig's 24기` &nbsp;·&nbsp; `ESAA 12기 부회장`
 
 <br/>
 
-### :wrench: Tech Stack
-
+### <img width="20" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -43,16 +42,14 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-### :seedling: Studying
-
+### <img width="20" src="https://api.iconify.design/lucide:sprout.svg?color=%238CB86E" align="top"/> Studying
 <p>
   <img src="https://img.shields.io/badge/SQL-8CB86E?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-8CB86E?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/PRD%2FJTBD-8CB86E?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-### :toolbox: Tools
-
+### <img width="20" src="https://api.iconify.design/lucide:toolbox.svg?color=%23333333" align="top"/> Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -62,12 +59,9 @@
 <br/>
 
 ## Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&title_color=00462A&icon_color=8CB86E&text_color=333333&cache_seconds=86400" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
-</a>
+<p>
+  <img src="https://img.shields.io/github/followers/jjhuiyaho?style=for-the-badge&color=00462A&labelColor=333333&label=Followers&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=jjhuiyaho&style=for-the-badge&color=8CB86E&label=Profile+Views" />
+</p>
 
 </div>
