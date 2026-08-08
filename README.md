@@ -10,34 +10,29 @@
 <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
 <br/><br/><br/>
-</div>
 
-### <img width="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
-- **추천 시스템 설계** : ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택)
-- **정책 제안 프로젝트** : KOSIS·SGIS 통계 기반 정책 제안 4건 설계
-- **복지 위험지 분석 체계** : 천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img width="22" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience</h3>
-      • <b>국가데이터처 인턴</b> (2026.03 – 2026.08)<br/>
-      • <b>Tobig's 24기</b> (2025.07 – 2026.07)<br/>
-      • <b>ESAA 12기 부회장</b> (2024.09 – 2025.08)
-    </td>
-    <td width="50%" valign="top">
-      <h3><img width="22" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards</h3>
-      • <b>국가데이터처 성과발표회</b> 대상<br/>
-      • <b>통계 분야 AI 오류 발굴 대회</b> 장려상
-    </td>
-  </tr>
-</table>
+### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
+**추천 시스템 설계** <br/>
+ThinkGood 고객 세분화 및 하이브리드 추천 로직 설계 (실제 서비스 채택) <br/><br/>
+**정책 제안 프로젝트** <br/>
+KOSIS·SGIS 통계 기반 정책 제안 4건 설계 <br/><br/>
+**복지 위험지 분석 체계** <br/>
+천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계
 
 <br/><br/>
 
-<div align="center">
+### <img width="20" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
+**국가데이터처 인턴** (2026.03 – 2026.08) <br/>
+**Tobig's 24기** (2025.07 – 2026.07) <br/>
+**ESAA 12기 부회장** (2024.09 – 2025.08)
+
+<br/><br/>
+
+### <img width="20" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards
+**국가데이터처 성과발표회** 대상 <br/>
+**통계 분야 AI 오류 발굴 대회** 장려상
+
+<br/><br/>
 
 ### <img width="20" src="https://api.iconify.design/lucide:wrench.svg?color=%2300462A" align="top"/> Tech Stack
 <p>
@@ -60,3 +55,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+<br/>
+
+## Github Stats
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
+</a>
+
+</div>
