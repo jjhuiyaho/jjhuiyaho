@@ -19,16 +19,21 @@
 
 <br/>
 
-### <img width="22" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
-- **국가데이터처 인턴** (2026.03 – 2026.08)
-- **Tobig's 24기** (2025.07 – 2026.07)
-- **ESAA 12기 부회장** (2024.09 – 2025.08)
-
-<br/>
-
-### <img width="22" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards
-- **국가데이터처 성과발표회** 대상
-- **통계 분야 AI 오류 발굴 대회** 장려상
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img width="22" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience</h3>
+      • <b>국가데이터처 인턴</b> (2026.03 – 2026.08)<br/>
+      • <b>Tobig's 24기</b> (2025.07 – 2026.07)<br/>
+      • <b>ESAA 12기 부회장</b> (2024.09 – 2025.08)
+    </td>
+    <td width="50%" valign="top">
+      <h3><img width="22" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> Awards</h3>
+      • <b>국가데이터처 성과발표회</b> 대상<br/>
+      • <b>통계 분야 AI 오류 발굴 대회</b> 장려상
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -55,13 +60,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</p>
-
-<br/>
-
-## Github Stats
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
-</a>
-
-</div>
