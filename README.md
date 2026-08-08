@@ -19,9 +19,11 @@
 
 ### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
 
-- **ThinkGood** &nbsp;`실제 서비스 채택` — 추천 로직 & DB 설계
-- **국가데이터처** &nbsp;`장려상` — 정책 제안 대상 & AI 오류 발굴
-- **다변량통계** &nbsp;`우선순위 도출` — 복지 사각지대 분석
+**ThinkGood** `실제 서비스 채택` — 추천 로직 & DB 설계
+<br/>
+**국가데이터처** `장려상` — 정책 제안 대상 & AI 오류 발굴
+<br/>
+**다변량통계** `우선순위 도출` — 복지 사각지대 분석
 
 <br/>
 
