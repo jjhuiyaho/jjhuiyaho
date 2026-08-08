@@ -16,6 +16,17 @@
 
 <br/>
 
+### 📫 Contact
+<a href="https://jjhuiyaho.github.io/HanJaehui/" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-00462A.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+
+<br/>
+<br/>
+
 ### 💫 Experience
 - **국가데이터처** — 경제통계심사조정과 청년인턴 *(2026.03 ~ 2026.08)*
 - **Tobig's** — 24기, 인공지능·데이터 분석 연합동아리 *(2025.07 ~ 2026.07)*
@@ -59,21 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&theme=transparent&title_color=00462A&icon_color=8CB86E&text_color=333333" height="150" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&theme=transparent&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" height="150" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Contact
-<a href="https://jjhuiyaho.github.io/HanJaehui/" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-00462A.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/email-00462A.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=00462A&icon_color=8CB86E&text_color=333333" height="150" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&background=transparent&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" height="150" alt="GitHub Streak" />
 
 </div>
