@@ -18,13 +18,10 @@
 <br/><br/>
 
 ### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
-<p>
-  <img src="https://img.shields.io/badge/ThinkGood-추천_로직_&_DB_설계_(실제_서비스_채택)-00462A?style=flat-square"/>
-  <br/>
-  <img src="https://img.shields.io/badge/국가데이터처-정책_제안_대상_&_AI_오류_발굴_장려상-8CB86E?style=flat-square"/>
-  <br/>
-  <img src="https://img.shields.io/badge/다변량통계-복지_사각지대_우선순위_도출-00462A?style=flat-square"/>
-</p>
+
+- **ThinkGood** &nbsp;`실제 서비스 채택` — 추천 로직 & DB 설계
+- **국가데이터처** &nbsp;`장려상` — 정책 제안 대상 & AI 오류 발굴
+- **다변량통계** &nbsp;`우선순위 도출` — 복지 사각지대 분석
 
 <br/>
 
