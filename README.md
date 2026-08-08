@@ -19,16 +19,27 @@
 
 ### <img width="20" src="https://api.iconify.design/lucide:rocket.svg?color=%2300462A" align="top"/> Key Impact
 
-**ThinkGood** `실제 서비스 채택` — 추천 로직 & DB 설계
+**추천 시스템 설계** `ThinkGood 실제 서비스 채택`
 <br/>
-**국가데이터처** `장려상` — 정책 제안 대상 & AI 오류 발굴
+**정책 제안 프로젝트** `KOSIS·SGIS 통계 기반 정책 제안 4건 설계`
 <br/>
-**다변량통계** `우선순위 도출` — 복지 사각지대 분석
+**복지 위험지 분석 체계** `천안시 노인 복지 사각지대, 지표 구축부터 위험지 도출까지 단계 설계`
 
 <br/>
 
 ### <img width="20" src="https://api.iconify.design/lucide:briefcase.svg?color=%2300462A" align="top"/> Experience
-`국가데이터처 인턴 (2026.03 ~ 2026.08)` &nbsp;·&nbsp; `Tobig's 24기` &nbsp;·&nbsp; `ESAA 12기 부회장`
+
+`2026.03 – 2026.08` &nbsp;국가데이터처 인턴
+<br/>
+`2025.07 – 2026.07` &nbsp;Tobig's 24기
+<br/>
+`2024.09 – 2025.08` &nbsp;ESAA 12기 부회장
+
+<br/>
+
+<img width="18" src="https://api.iconify.design/lucide:trophy.svg?color=%238CB86E" align="top"/> **Awards**
+- 국가데이터처 성과발표회 대상
+- 통계 분야 AI 오류 발굴 대회 장려상
 
 <br/>
 
