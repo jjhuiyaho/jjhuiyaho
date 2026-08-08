@@ -1,5 +1,6 @@
 <div align="center">
 
+
 </div>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=jjhuiyaho&style=flat-square&color=00462A" align="right" />
@@ -36,6 +37,6 @@ ESAA — 교내 통계 분석 학회, 11기 YB · 12기 OB & 부회장 (2024.09 
 <br/>Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&bg_color=transparent&title_color=00462A&icon_color=8CB86E&text_color=333333" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjhuiyaho&hide_border=true&background=transparent&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&theme=transparent&title_color=00462A&icon_color=8CB86E&text_color=333333" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjhuiyaho&hide_border=true&background=transparent&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A&currStreakLabel=00462A&sideLabels=333333&sideNums=333333&dates=333333" height="150" alt="GitHub Streak" />
 </div>
