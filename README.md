@@ -59,11 +59,12 @@
 <br/>
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhuiyaho&show_icons=true&hide_border=true&title_color=00462A&icon_color=8CB86E&text_color=333333" />
-</a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=jjhuiyaho&hide_border=true&title_color=00462A&text_color=333333&icon_color=8CB86E&ring=8CB86E&fire=00462A&currStreakNum=00462A" />
 </a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhuiyaho&layout=compact&hide_border=true&title_color=00462A&text_color=333333&langs_count=6&card_width=400" />
 
 </div>
